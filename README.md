@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/4f2edf7c-e72f-49e5-92cd-7aa3f8c6db7a)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kminnn</h1>
 <h3 align="center">FTC 24070am 26575m | Robocon EIC Chula</h3>
 
